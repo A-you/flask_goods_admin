@@ -1,0 +1,12 @@
+# encoding: utf-8
+
+"""
+@author: you
+@site: 
+@time: 2019/11/7 15:03
+"""
+SERVICE_PORT = 5000
+SQLALCHEMY_ECHO = True
+SQLALCHEMY_DATABASE_URI = 'mysql://root:123456@127.0.0.1/mysql'
+SQLALCHEMY_TRACK_MODIFICATIONS =False
+SQLALCHEMY_ENCODING = "utf-8"
